@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Moribox
+- 👀 I’m interested in assisting the LC13 community with development! ( And also picking up some code related basics along the way... )
+- 🌱 I’m currently learning to work within the confines of the hellscape that is the BYOND engine.
+- 📫 How to reach me: You cannot! Please do not try! I dislike interacting with people.
